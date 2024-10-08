@@ -10,4 +10,4 @@ Este repositório contém o sumário para o resumos das lições aprendidas dura
 * Comparação entre CapEx e OpEx
 
 ## [RESUMO 2](resumo2.md)
-*Benefícios da Computação em Nuvem
+* Benefícios da Computação em Nuvem
