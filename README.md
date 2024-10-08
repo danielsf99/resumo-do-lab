@@ -8,3 +8,6 @@ Este repositório contém o sumário para o resumos das lições aprendidas dura
 * Computação em Nuvem: Domínio do Objetivo
 * Comparação de Modelos de Nuvem
 * Comparação entre CapEx e OpEx
+
+## [RESUMO 2](resumo2.md)
+*Benefícios da Computação em Nuvem
