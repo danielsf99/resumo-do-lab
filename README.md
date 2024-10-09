@@ -11,3 +11,7 @@ Este repositório contém o sumário para o resumos das lições aprendidas dura
 
 ## [RESUMO 2](resumo2.md)
 * Benefícios da Computação em Nuvem
+
+## [RESUMO 3](resumo3.md)
+* Tipos de Serviço de Nuvem (Iaas, Paas, Saas)
+* Modelo de responsabilidade compartilhada
